@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 /**
  * Server Class.
  * Initiates the server and continuously listens on the port given as an argument. Handles threading.
- * @author ID:160014528
+ * @author ID:
  */
 public class Server {
 
