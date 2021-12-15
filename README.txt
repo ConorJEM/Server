@@ -3,7 +3,7 @@ FEATURES:
 2. Returning of binary images (GIF, JPEG and PNG):
 	
 	After compiling, if you run this program using the /rrr directory (e.g. by running java WebServerMain ../rrr 8080)
-	then go to http://localhost:8080/page2.html I have included a gif, png, and a JPEG file that shows I am succesfully returning binary images.
+	then go to http://localhost:8080/page2.html I have included a gif, png, and a JPEG file that shows it succesfully returns binary images.
 
 3. Multithreading – support multiple concurrent client connection requests up to a specified limit.
 
